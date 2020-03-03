@@ -33,7 +33,7 @@ Download DEV-C++ 5.11
 ##
 finished
 ##
-## How to run the program:
+### How to run the program:
 **Step 1**: Configure Dev-C++.
 We need to modify one of the default settings to allow you to use the debugger with your programs.
 ##
